@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+# prepped portrait and source photos stay local; only the SVG is committed
+.portrait/
+source-photo.*

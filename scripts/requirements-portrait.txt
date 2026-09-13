@@ -1,0 +1,7 @@
+# Only needed locally, when the portrait photo changes
+pillow
+numpy
+# 5.x dropped the bundled Haar face detector that prep_photo.py uses
+opencv-python-headless>=4.9,<5
+# optional, for prep_photo.py --rembg (downloads a ~170 MB model on first use)
+# rembg[cpu]

@@ -19,6 +19,23 @@
 ![Home lab](https://img.shields.io/badge/Home%20lab-0d1117?style=flat-square&labelColor=0d1117&color=4ec9b0)
 ![Runner](https://img.shields.io/badge/Runner-0d1117?style=flat-square&labelColor=0d1117&color=4ec9b0)
 
+<br/><br/>
+
+<h3><code>topper@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./assets/contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last 12 months, refreshed daily" />
+
+<br/><br/>
+
+<h3><code>topper@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./assets/topper-ascii.svg" width="370" alt="ASCII portrait of Topper" /></td>
+    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="neofetch-style card: Denmark, Python, ESP32, home lab, current and past projects" /></td>
+  </tr>
+</table>
+
 </div>
 
 ---
